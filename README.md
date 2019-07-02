@@ -1,4 +1,3 @@
 # Webhooks
-This is to link Webhooks
-This is a test message
-test
+Sea of thieves Server Maintenance
+https://www.seaofthieves.com/status
